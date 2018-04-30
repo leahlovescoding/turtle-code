@@ -4,7 +4,7 @@ sally = turtle.Turtle()
 a = 12
 sally.width(6)
 # colors = ["red", "pink", "yellow", "green", "purple"]
- sally.pencolor('red')
+sally.pencolor('red')
 
 for i in range (0, 50):
   sally.forward(a)
